@@ -26,5 +26,8 @@
   "temple_path_intersections": [],
   "temple_footprints_outside_woodland": [],
   "invalid_features": [],
-  "total_features": 634
+  "total_features": 635,
+  "combat_palaestra_id": "CIV-13",
+  "combat_palaestra_area_m2": 5200,
+  "combat_palaestra_building_overlap": false
 }
