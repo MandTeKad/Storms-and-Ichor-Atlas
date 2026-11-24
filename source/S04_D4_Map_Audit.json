@@ -1,0 +1,30 @@
+{
+  "temple_count": 15,
+  "temple_names": [
+    "Hestia",
+    "Hermes",
+    "Dionysus",
+    "Demeter",
+    "Persephone",
+    "Hades",
+    "Poseidon",
+    "Hephaestus",
+    "Aphrodite",
+    "Ares",
+    "Athena",
+    "Apollo",
+    "Artemis",
+    "Hera",
+    "Zeus"
+  ],
+  "ridge_length_m": 861.8468352333388,
+  "ridge_old_distance_to_polis_m": 55.803099894841154,
+  "ridge_new_distance_to_polis_m": 246.14170963831182,
+  "forest_acres": 756.8787388387464,
+  "temple_acres": 37.39396316666321,
+  "building_overlap_pairs": [],
+  "temple_path_intersections": [],
+  "temple_footprints_outside_woodland": [],
+  "invalid_features": [],
+  "total_features": 634
+}
